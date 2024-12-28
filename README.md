@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a dedicated Flutter developer with a passion f
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **fatmaalzhraazedan@gmail.com**
+- 📫 How to reach me **fatmaalzhraaesmail@gmail.com**
   
 
 ## 🚀 Skills & Technologies
